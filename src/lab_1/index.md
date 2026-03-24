@@ -14,10 +14,18 @@ toc: true
 2. build a few Observable Plot options
 3. start iterating with visualizations to answer data questions
 <br>
-<br>
 
 ### Context 
 The local farm has some new observational data from their plots. They need our help to determine important trends about the bees and the flowers. They are hoping to know more about the three bee species observed, the flowers, and the ideal conditions. Specifically, our dashboard answers the following questions:
+<br>
+
+
+<img src="cuteBee.jpg" alt="2 bees on a flower, as if they were googly eyes, taken by Sidrat Habib" width="300" class="center">
+<br>
+
+##### Photo Credits: Sidrat Habib
+
+<br>
 <br>
 <br>
 
