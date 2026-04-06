@@ -29,6 +29,15 @@ The local farm has some new observational data from their plots. They need our h
 <br>
 <br>
 
+<img src="cuteBee.jpg" alt="2 bees on a flower, as if they were googly eyes, taken by Sidrat Habib" width="300" class="center">
+<br>
+
+##### Photo Credits: Sidrat Habib
+
+<br>
+<br>
+<br>
+
 ```js
 // Load data
 const beeData = FileAttachment("data/pollinator_activity_data.csv").csv({ typed: true })
