@@ -37,18 +37,17 @@ The local farm has some new observational data from their plots. They need our h
 // Load data
 const beeData = FileAttachment("data/pollinator_activity_data.csv").csv({ typed: true })
 
-// display -- this displayed something weird hmmm
-// display(beeData)
-
 // Create interactive table
-Inputs.table(beeData)
+// display(
+// Inputs.table(beeData)
+// //  making a plot code
+//  Plot.plot({
+//    marks: [
+//      Plot.frame()
+//    ]
+//  })
+// )
 
-// making a plot code
-// Plot.plot({
-//   marks: [
-//     Plot.frame(),
-//   ]
-// })
 ```
 
 <!-- Showing work down below -->

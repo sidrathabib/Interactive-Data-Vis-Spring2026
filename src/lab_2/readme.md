@@ -87,7 +87,6 @@ The data could yield additional interesting trends, but these questions are the 
 | Column Name | Type | Range/Values | Description |
 |-------------|------|--------------|-------------|
 | **date** | Date | 2015-01-01 to 2025-08-14 | Date of the incident |
-| **station** | Categorical | 25 stations | Subway station where incident occurred |
 | **severity** | Categorical | low, medium, high | Severity level of the incident |
 | **staffing_count** | Integer | 3-20 | Number of staff on duty at the time |
 | **response_time_minutes** | Numeric | 2-25 minutes | Time to respond to the incident |
