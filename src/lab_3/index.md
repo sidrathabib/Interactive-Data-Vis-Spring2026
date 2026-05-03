@@ -3,7 +3,7 @@ title: "Lab 3: Mayoral Mystery"
 toc: false
 ---
 
-This page is where you can iterate. Follow the lab instructions in the [readme.md](./README.md).
+test
 
 <!-- Import Data -->
 ```js
