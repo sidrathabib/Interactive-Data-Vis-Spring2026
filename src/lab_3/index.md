@@ -42,7 +42,6 @@ const districts = topojson.feature(nyc, nyc.objects.districts)
 <style>
 body {
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  background-color: #f1f5f9;
   color: #334155;
   line-height: 1.6;
 }
